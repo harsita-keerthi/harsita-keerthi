@@ -1,19 +1,22 @@
-# 👋🏽 Hello, I'm Harsita!
-Welcome to my GitHub! I’m currently a Computer Science major at San Jose State University, pursuing minors in Psychology and Statistics. My expected graduation is in May 2026, and I’m passionate about merging technology with human-centered design, with a particular focus on Human-Computer Interaction (HCI) and Machine Learning.
+# 👋🏽 hello, i'm harsita!
+welcome to my github, a comprehensive database of all my projects! i’m currently a computer science major at san jose state university, pursuing minors in psychology and statistics. i’m passionate about exploring the intersection of tech, human behavior, and design.
 
-## 👩🏽‍💻 About Me
+## 👩🏽‍💻 about me
 
-🌱 Currently, I'm deepening my knowledge in machine learning, software engineering, and psychology.
+💡 interested in machine learning, software engineering, and the psychology behind great user experiences
 
-👥 Vice President of Girls Who Code at SJSU.
+🧸 vice president @ girls who code sjsu, making tech more inclusive
 
-💼 Machine Learning Engineer at Google through Break Through Tech AI program.
+👥 instructional staff @ codepath, assisting students with technical interview prep
 
-🧠 Building projects that combine data science, AI, and UX to create impactful tools.
+🔭 fellow @ cornell's break through tech ai program, collaborating with google and wids on machine learning projects
 
-🔍 Actively seeking opportunities to work on innovative projects in product management, software engineering, and machine learning.
+🌱 always building AI, data, and UX driven projects that hopefully make an impact
 
-## 🛠 Tech Stack
+💫 open to new opportunities — let’s create something fascinating!
+
+
+## 🌐 tech stack
 <div align="text-align: left;">
   <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -30,7 +33,7 @@ Welcome to my GitHub! I’m currently a Computer Science major at San Jose State
   <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
 </div>
 
-## 📧 Let's Connect!
+## 📧 let's connect!
 <div align="text-align: left;">
   <!-- LinkedIn Button -->
   <a href="https://www.linkedin.com/in/harsitak/" target="_blank">
