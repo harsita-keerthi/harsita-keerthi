@@ -7,7 +7,7 @@ welcome to my github, a comprehensive database of all my projects! i’m current
 🧸 president @ girls who code sjsu, making tech more inclusive\
 👥 instructional staff @ codepath, assisting students with technical interview prep\
 🔭 fellow @ cornell's break through tech ai program, collaborating with google and wids on machine learning projects\
-🪼 prev swe intern @ atlassian, worked on confluence recap with the land & onboarding team
+🪼 prev swe intern @ atlassian, worked on confluence recap with the land & onboarding team\
 🌱 always building AI, data, and UX driven projects that hopefully make an impact\
 💫 open to new opportunities — let’s create something fascinating!
 
@@ -41,4 +41,5 @@ welcome to my github, a comprehensive database of all my projects! i’m current
     <img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website">
   </a>
 </div>
+
 
